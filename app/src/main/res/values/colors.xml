@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#04C6DF</color>
+    <color name="colorPrimaryDark">#07B2C8</color>
+    <color name="colorAccent">#F3EDBA</color>
+
+
+    <!-- Cores projeto !-->
+    <color name="Background_projeto">#E8E095</color>
+    <color name="cor_letras_slider">#000000</color>
+    <color name="letra_botao">#FFFFFF</color>
+</resources>
